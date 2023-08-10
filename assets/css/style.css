@@ -1,0 +1,75 @@
+/*Defining colors as variables for future use*/
+:root {
+    --blue: #1e90ff;
+    --white: #ffffff;
+    --lightblue: #ADD8E6;
+    --black: #000;
+    --lightgrey: #8A8A8A;
+    --grey: #454545;
+    --gold: #D9B779;
+
+}
+
+h1 {
+    font-size: 55px;
+    font-weight: 600;
+    letter-spacing: 5px;
+    color: var(--white);
+}
+
+#weatherContent {
+    display: none;
+}
+
+.navbar {
+    height: 100px;
+}
+
+#cityDetail,
+#uvIndexColor,
+li {
+    color: var(--white);
+}
+
+#searchResults,
+#cityDetail,
+.card {
+    background-color: var(--white);
+}
+
+#searchResults {
+    height: 100px;
+}
+
+#fiveDay .card {
+    border: 1px solid var(--white);
+    display: flex;
+}
+
+#searchHistory li {
+    background-color: var(--grey);
+    color: var(--white);
+}
+
+p {
+    color: var(--gold);
+}
+
+h1, 
+h2, 
+h3, 
+h4, 
+h5 {
+    font-family: sans-serif;
+}
+
+h2, 
+h3, 
+h4, 
+h5 {
+    color: var(--black);
+}
+
+body {
+    background-color: var(--white);
+}

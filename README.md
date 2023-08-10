@@ -46,9 +46,12 @@ THEN I am again presented with current and future conditions for that city
 ```
 - Upon opening the page users will be prompted to enter a city into a search bar
 - The site will then link to local weather and display information including the temperature, wind, and heat index for the area.
+- Recent searches will show on the left side of the screen for quick reference
+
+![White search bar with a column of recent city searches underneath](./assets/imgs/history1.JPG) 
 
 ```
 ## Images
 
-![](./assets/images/) 
+![White and blue themed website that contains weather forecasts](./assets/imgs/Homepage1.JPG) 
 

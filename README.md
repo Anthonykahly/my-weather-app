@@ -1,5 +1,5 @@
 # My Weather Application
-
+![White and blue themed website that contains weather forecasts](./assets/imgs/HomepagePicture.JPG) 
 A simple application for looking up local weather
 
 ### URL : 
@@ -46,12 +46,6 @@ THEN I am again presented with current and future conditions for that city
 ```
 - Upon opening the page users will be prompted to enter a city into a search bar
 - The site will then link to local weather and display information including the temperature, wind, and heat index for the area.
-- Recent searches will show on the left side of the screen for quick reference
-
-
+- Recent searches will show on the left side of the screen for quick reference 
 ```
-## Images
-
-![White and blue themed website that contains weather forecasts](./assets/Homepage1.JPG) 
-
-![White search bar with a column of recent city searches underneath](./assets/history1.JPG) 
+![White search bar with a column of recent city searches underneath](./assets/imgs/history1.JPG) 

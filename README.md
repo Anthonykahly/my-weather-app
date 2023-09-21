@@ -1,6 +1,6 @@
 # My Weather Application
 ![White and blue themed website that contains weather forecasts](./assets/imgs/HomepagePicture.JPG) 
-A simple application for looking up local weather
+A simple application for looking up local weather forecasts of a chosen area. 
 
 ### URL : 
 
@@ -11,7 +11,7 @@ Pages: https://anthonykahly.github.io/my-weather-app/
 
 ```
 
-This simple weather app allows for travelers to look at the weather ahead of time with any given location. 
+This simple weather app allows for travelers to look at the weather ahead of time with any given location. The application will give the user information such as the wind, temperature, and even uses a color coded system for the UV index so that the user can plan for their trip.
 
 ```
 
